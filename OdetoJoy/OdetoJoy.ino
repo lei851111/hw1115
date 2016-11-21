@@ -9,9 +9,9 @@ void setup() {
 
 void loop() {
   for(int i=0;i<lenghofnote;i++){
-//    bt=500*beat[i];
-//    tone(8,note[i],bt);
-//    delay(bt);
-//    Serial.println(bt);
+    bt=500*beat[i];
+    tone(8,note[i],bt);
+    delay(bt);
+    Serial.println(bt);
   }
 }
