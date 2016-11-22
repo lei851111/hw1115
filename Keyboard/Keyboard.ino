@@ -1,6 +1,7 @@
 //Arduino Keyboard
+#include "pitches.h"
 int irPin[] = {2,3,4,5,6,7,8};//設定光敏感測器pin腳
-int note[] = {262,294,330,349,392,440,494}; //設定音階頻率
+int note[] = {NOTE_C6, NOTE_D6, NOTE_E6, NOTE_F6, NOTE_G6, NOTE_A6, NOTE_B6}; //設定音階頻率
 int irVal[] ={}; //設定光敏感應值
 int buzzerPin = 9; 
 
