@@ -51,6 +51,7 @@
 <h2>11/22</h2>
 <h3>進度內容</h3>
 <ul>
+	<li>實作-Arduino感應式電子琴(更新)</li>
 	<li>撰寫library</li>
 	<li>整理文件</li>
 </ul>
