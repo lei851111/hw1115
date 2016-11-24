@@ -64,6 +64,12 @@
 </ul>
 <p>library撰寫上遇上一些問題，持續debug中</p>
 
+<h2>11/24</h2>
+<h3>進度內容</h3>
+<ul>
+	<li>實作-Piano library</li>
+</ul>
+<p>library撰寫問題已解決，持續撰寫中</p>
 
 
 
