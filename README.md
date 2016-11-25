@@ -1,7 +1,6 @@
-<h1>Arduino感應式電子琴</h1>
+#Arduino感應式電子琴
 
-
-<h2>概述</h2>
+##OVERVIEW
 
 
 <p>透過蜂鳴器的發聲原理，計算得到每個音的頻率，從而控制音調，</br>接著利用一些簡單的材料，製作出一個能夠發出7音階的簡易電子琴，</br>讓你隨時隨地都能輕鬆地演奏音樂，你也可以是個音樂家!</p>
@@ -15,5 +14,14 @@
 	<li>麵包版*1</li>
 	<li>杜邦線</li>
 </ul>
+
+<h2>EXAMPLES</h2>
+<h2>INSTALLATION</h2>
+<h2>FUNCTION OVERVIEW</h2>
+<h2>MINUTIAE</h2>
+<h2>CONTACT</h2>
+<h2>COLOPHON</h2>
+<h2>LICENSE</h2>
+
 
 
