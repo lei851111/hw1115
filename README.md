@@ -29,11 +29,11 @@ Arduino（IDE）
 * Piano.ino
 
 ##函式
-* setBuzzer(int buzzerpin);
+* setBuzzer(int buzzerpin);   
 設定蜂鳴器的腳位。
-* getIRVal(int pin);
+* getIRVal(int pin);   
 取得循線感測器的數值。
-* setPitch(int pin,int pitch,int delaytime);
+* setPitch(int pin,int pitch,int delaytime);   
 設定循線感測器觸發時所發出的音高。
 
 
