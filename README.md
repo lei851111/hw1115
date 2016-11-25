@@ -6,7 +6,6 @@
 讓你隨時隨地都能輕鬆地演奏音樂，你也可以是個音樂家!
 
 ##材料
-
 * Arduino Mega 2560 控制面板 x1
 * 循線感測器 x7  
 * 小型無源蜂鳴器 x1  
@@ -14,7 +13,7 @@
 * 杜邦線  
 
 ##接線
-![接線圖](/hw115/Piano.png)
+![接線圖](/hw1115/Piano.png)
 ##安裝
 Arduino（IDE）
 請選擇以下符合您電腦作業系統的[Arduino（IDE）](https://www.arduino.cc/en/Main/Software)，並按照指示一步一步進行安裝程序。
@@ -25,8 +24,10 @@ Arduino（IDE）
 * [Portable IDE](https://www.arduino.cc/en/Guide/PortableIDE)（Windows & Linux）
 
 安裝了Arduino（IDE）後，請在列表中選擇您的主板位置，接著就能著手進行程式的撰寫了。
+
 ##範例
 * Piano.ino
+
 ##函式
 * setBuzzer(int buzzerpin);
 設定蜂鳴器的腳位。
