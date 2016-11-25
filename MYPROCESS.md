@@ -71,6 +71,14 @@
 </ul>
 <p>library撰寫問題已解決，持續撰寫中</p>
 
+<h2>11/25</h2>
+<h3>進度內容</h3>
+<ul>
+	<li>實作-Piano library(更新)</li>
+	<li>README文件撰寫</li>
+	<li>佈線圖繪製</li>
+</ul>
+
 
 
 
