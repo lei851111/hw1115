@@ -13,7 +13,7 @@
 * 杜邦線  
 
 ##接線
-![接線圖](/hw1115/Piano.png)
+![接線圖](/Piano.png)
 ##安裝
 Arduino（IDE）
 請選擇以下符合您電腦作業系統的[Arduino（IDE）](https://www.arduino.cc/en/Main/Software)，並按照指示一步一步進行安裝程序。
