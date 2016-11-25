@@ -7,10 +7,10 @@
 
 ##材料
 * Arduino Mega 2560 控制面板 x1
-* 循線感測器 x7  
-* 小型無源蜂鳴器 x1  
-* 麵包版 x1  
-* 杜邦線  
+* Line Tracking sensor 循線感測器 x7  
+* Passive Buzzer 小型無源蜂鳴器 x1  
+* Breadboard 麵包板 x1  
+* Dupont Line 杜邦線  
 
 ##接線
 ![接線圖](/Piano.png)
