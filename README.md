@@ -35,7 +35,7 @@ Arduino（IDE）
 設定蜂鳴器的腳位。
 * `setPitch(int pin,int pitch,int delaytime);`   
 設定循線感測器觸發時所發出的音高。
-* `MusicTutorial(int irpin[],int ledpin[],int pitches[],int notes[],int beat[],int numofpitches);`
+* `MusicTutorial(int irpin[],int ledpin[],int pitches[],int notes[],int beat[],int numofpitches,int numofnotes);`
 互動LED引導演奏樂曲的教學模式。
 * `getIRVal(int pin);`   
 取得循線感測器的數值。
