@@ -1,18 +1,15 @@
 #include <Piano.h>
+#include "pitches.h"
 
 Piano piano;
 void setup() {
-  Serial.begin(9600);
-  
+  piano.setBuzzer(2);
 }
 
 void loop() {
-  piano.setBuzzer(9);
-  piano.setPitch(2,262,100);
-  piano.setPitch(3,294,100);
-  piano.setPitch(4,330,100);
-  piano.setPitch(5,349,100);
-  piano.setPitch(6,392,100);
-  piano.setPitch(7,440,100);
-  piano.setPitch(8,494,100);
+  piano.setPitch(8,13,NOTE_C4,100);
+  piano.setPitch(7,12,NOTE_D4,100);
+  piano.setPitch(6,11,NOTE_E4,100);
+  piano.setPitch(5,10,NOTE_F4,100);
+  piano.setPitch(4,9,NOTE_G4,100);
 }
