@@ -6,12 +6,12 @@ class Piano{
 public:
 	Piano();
 	void setBuzzer(int buzzerpin);
-	void setPitch(int pin,int pitch,int delaytime);
+	void setPitch(int irpin,int ledpin,int pitch,int delaytime);
+	void MusicTutorial(int irpin[],int ledpin[],int pitches[],int notes[],int beat[],int numofpitches,int numofnotes);
+	int getIRVal(int irpin);
 private:
 	int _buzzerpin;
-	int _pin;
-	int _pitch;
-	int _delaytime;
 };
+
 #endif
 
