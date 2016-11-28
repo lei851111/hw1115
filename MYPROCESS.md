@@ -1,97 +1,105 @@
-<h1>實作進度紀錄</h1>
+#實作進度紀錄
 
 
-<h2>11/16</h2>
-<h3>進度內容</h3>
-<ul>
-	<li>主題發想</li>
-	<li>認識各式感應器與應用</li>
-</ul>
-<p>發想出許多不同的創意，並逐一檢視可行性與創意度。</p>
+##11/16 
+###進度內容 
 
-<h2>11/17</h2>
-<h3>進度內容</h3>
-<ul>
-	<li>主題發想</li>
-	<li>熟悉IDE環境</li>
-	<li>熟悉github</li>
-</ul>
-<p>上網搜尋github的教學文章以及使用方法。</p>
+* 主題發想 
+* 認識各式感應器與應用 
 
-<h2>11/18</h2>
-<h3>進度內容</h3>
-<ul>
-	<li>主題定案-Arduino感應式電子琴</li>
-	<li>了解感測器的原理與使用</li>
-</ul>
-<p>了解有源與無源蜂鳴器的差異與紅外線避障器的原理。</p>
+發想出許多不同的創意，並逐一檢視可行性與創意度。 
 
-<h2>11/19</h2>
-<h3>進度內容</h3>
-<ul>
-	<li>實作練習-手機鈴聲</li>
-	<li>採買材料</li>
-</ul>
+##11/17 
+###進度內容 
 
-<h2>11/20</h2>
-<h3>進度內容</h3>
-<ul>
-	<li>實作練習-快樂頌</li>
-	<li>認識基本樂理以及蜂鳴器的音階頻率</li>
-</ul>
-<p>透過不同的音符來控制蜂鳴器的音階與節拍。</p>
+* 主題發想 
+* 熟悉IDE環境 
+* 熟悉github 
 
-<h2>11/21</h2>
-<h3>進度內容</h3>
-<ul>
-	<li>了解library的撰寫方式</li>
-	<li>實作-Arduino感應式電子琴</li>
-</ul>
+上網搜尋github的教學文章以及使用方法。 
 
-<h2>11/22</h2>
-<h3>進度內容</h3>
-<ul>
-	<li>實作-Arduino感應式電子琴(更新且上傳)</li>
-	<li>撰寫library</li>
-	<li>整理文件</li>
-</ul>
-<p>library撰寫上遇上一些問題，持續debug中</p>
+##11/18 
+###進度內容 
 
-<h2>11/23</h2>
-<h3>進度內容</h3>
-<ul>
-	<li>撰寫library</li>
-</ul>
-<p>library撰寫上遇上一些問題，持續debug中</p>
+* 主題定案-Arduino感應式電子琴 
+* 了解感測器的原理與使用 
 
-<h2>11/24</h2>
-<h3>進度內容</h3>
-<ul>
-	<li>實作-Piano library</li>
-</ul>
-<p>library撰寫問題已解決，持續撰寫中</p>
+了解有源與無源蜂鳴器的差異與紅外線避障器的原理。 
 
-<h2>11/25</h2>
-<h3>進度內容</h3>
-<ul>
-	<li>實作-Piano library(更新且上傳)</li>
-	<li>README文件撰寫</li>
-	<li>佈線圖繪製</li>
-</ul>
+##11/19 
+###進度內容 
 
-<h2>11/26</h2>
-<h3>進度內容</h3>
-<ul>
-	<li>實作-Piano library(更新且上傳)</li>
-</ul>
-<p>添加LED效果，讓音階更有識別度。</p>
+* 實作練習-[手機鈴聲](https://github.com/lei851111/hw1115/tree/master/practice/PhoneCall) 
+* 採買材料 
 
-<h2>11/27</h2>
-<h3>進度內容</h3>
-<ul>
-	<li>實作-Piano library</li>
-</ul>
-<p>實作LED歌曲教學模式，跟隨LED亮燈的順序演奏一首樂曲。</p>
+
+##11/20 
+###進度內容 
+
+* 實作練習-[快樂頌](https://github.com/lei851111/hw1115/tree/master/practice/OdetoJoy) 
+* 認識基本樂理以及蜂鳴器的音階頻率 
+
+透過不同的音符來控制蜂鳴器的音階與節拍。 
+
+##11/21 
+###進度內容 
+
+* 了解library的撰寫方式 
+* 實作-Arduino感應式電子琴 
+
+
+##11/22 
+###進度內容 
+
+* 實作-[Arduino感應式電子琴](https://github.com/lei851111/hw1115/tree/master/practice/Keyboard)(更新且上傳) 
+* 撰寫library 
+* 整理文件 
+
+library撰寫上遇上一些問題，持續debug中 
+
+##11/23 
+###進度內容 
+
+* 撰寫library 
+
+library撰寫上遇上一些問題，持續debug中 
+
+##11/24 
+###進度內容 
+
+* 實作-[Piano](https://github.com/lei851111/hw1115/tree/master/Piano) library 
+
+library撰寫問題已解決，持續撰寫中 
+
+##11/25 
+###進度內容 
+
+* 實作-[Piano](https://github.com/lei851111/hw1115/tree/master/Piano) library(更新且上傳) 
+* README文件撰寫 
+* 佈線圖繪製 
+
+
+##11/26 
+###進度內容 
+
+* 實作-[Piano](https://github.com/lei851111/hw1115/tree/master/Piano) library(更新且上傳) 
+
+添加LED效果，讓音階更有識別度。 
+
+##11/27 
+###進度內容 
+
+* 實作-[Piano](https://github.com/lei851111/hw1115/tree/master/Piano) library 
+
+實作LED樂曲教學模式，跟隨LED亮燈的順序演奏一首樂曲。 
+
+##11/28 
+###進度內容 
+
+* 實作-[Piano](https://github.com/lei851111/hw1115/tree/master/Piano) library(更新且上傳) 
+* 實作範例-[MusicTutorial](https://github.com/lei851111/hw1115/tree/master/Piano/sample/MusicTutorial)(已上傳) 
+
+完成LED樂曲教學模式。
 
 
 
