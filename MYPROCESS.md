@@ -51,7 +51,7 @@
 <h2>11/22</h2>
 <h3>進度內容</h3>
 <ul>
-	<li>實作-Arduino感應式電子琴(更新)</li>
+	<li>實作-Arduino感應式電子琴(更新且上傳)</li>
 	<li>撰寫library</li>
 	<li>整理文件</li>
 </ul>
@@ -74,10 +74,24 @@
 <h2>11/25</h2>
 <h3>進度內容</h3>
 <ul>
-	<li>實作-Piano library(更新)</li>
+	<li>實作-Piano library(更新且上傳)</li>
 	<li>README文件撰寫</li>
 	<li>佈線圖繪製</li>
 </ul>
+
+<h2>11/26</h2>
+<h3>進度內容</h3>
+<ul>
+	<li>實作-Piano library(更新且上傳)</li>
+</ul>
+<p>添加LED效果，讓音階更有識別度。</p>
+
+<h2>11/27</h2>
+<h3>進度內容</h3>
+<ul>
+	<li>實作-Piano library</li>
+</ul>
+<p>實作LED歌曲教學模式，跟隨LED亮燈的順序演奏一首樂曲。</p>
 
 
 
