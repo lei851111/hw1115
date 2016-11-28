@@ -27,8 +27,8 @@ Arduino（IDE）
 安裝了Arduino（IDE）後，請在列表中選擇您的主板位置，接著就能著手進行程式的撰寫了。
 
 ##範例
-* `Piano.ino`
-<!-- * `MusicTutorial.ino` -->
+* `Piano.ino`   
+* `MusicTutorial.ino`
 
 ##函式
 * `setBuzzer(int buzzerpin);`   
