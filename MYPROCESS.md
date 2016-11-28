@@ -67,14 +67,14 @@ library撰寫上遇上一些問題，持續debug中
 ##11/24 
 ###進度內容 
 
-* 實作-[Piano](https://github.com/lei851111/hw1115/tree/master/Piano) library 
+* 實作-[Piano]( https://github.com/lei851111/hw1115) library 
 
 library撰寫問題已解決，持續撰寫中 
 
 ##11/25 
 ###進度內容 
 
-* 實作-[Piano](https://github.com/lei851111/hw1115/tree/master/Piano) library(更新且上傳) 
+* 實作-[Piano]( https://github.com/lei851111/hw1115) library(更新且上傳) 
 * README文件撰寫 
 * 佈線圖繪製 
 
@@ -82,22 +82,22 @@ library撰寫問題已解決，持續撰寫中
 ##11/26 
 ###進度內容 
 
-* 實作-[Piano](https://github.com/lei851111/hw1115/tree/master/Piano) library(更新且上傳) 
+* 實作-[Piano]( https://github.com/lei851111/hw1115) library(更新且上傳) 
 
 添加LED效果，讓音階更有識別度。 
 
 ##11/27 
 ###進度內容 
 
-* 實作-[Piano](https://github.com/lei851111/hw1115/tree/master/Piano) library 
+* 實作-[Piano]( https://github.com/lei851111/hw1115) library 
 
 實作LED樂曲教學模式，跟隨LED亮燈的順序演奏一首樂曲。 
 
 ##11/28 
 ###進度內容 
 
-* 實作-[Piano](https://github.com/lei851111/hw1115/tree/master/Piano) library(更新且上傳) 
-* 實作範例-[MusicTutorial](https://github.com/lei851111/hw1115/tree/master/Piano/sample/MusicTutorial)(已上傳) 
+* 實作-[Piano]( https://github.com/lei851111/hw1115) library(更新且上傳) 
+* 實作範例-[MusicTutorial]( https://github.com/lei851111/hw1115/sample/MusicTutorial)(已上傳) 
 
 完成LED樂曲教學模式。
 
