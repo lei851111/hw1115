@@ -1,0 +1,17 @@
+
+#######################################
+# Syntax Coloring For Plant
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Piano	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getIRVal	KEYWORD2
+setBuzzer		KEYWORD2
+setPitch		KEYWORD2
+MusicTutorial	KEYWORD2

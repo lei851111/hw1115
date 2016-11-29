@@ -1,6 +1,6 @@
 #Arduino感應式電子琴
 
-##目的
+##概述
 透過蜂鳴器的發聲原理，計算得到每個音的頻率，從而控制音高，
 接著利用一些簡單的材料，製作出一個能夠發出多種自訂音高的感應式電子琴，
 讓你隨時隨地都能輕鬆地演奏音樂，你也可以是個音樂家!
@@ -14,7 +14,7 @@
 * Dupont Line 杜邦線  
 
 ##接線
-![接線圖](/Piano.png)
+![接線圖](/sample/Piano/Piano.png)
 ##安裝
 ###[Arduino（IDE）](https://www.arduino.cc/en/Main/Software)   
 請選擇以下符合您電腦作業系統的[Arduino（IDE）](https://www.arduino.cc/en/Main/Software)，並按照指示一步一步進行安裝程序。
@@ -41,8 +41,9 @@
 * `setPitch(int pin,int pitch,int delaytime);`   
 設定循線感測器觸發時所發出的音高。
 * `MusicTutorial(int irpin[],int ledpin[],int pitches[],int notes[],float beat[],int numofpitches,int numofnotes);`     
-互動式LED演奏教學模式。
+互動式LED演奏教學模式。   
 
+[互動式LED演奏教學模式-示範影片](https://youtu.be/jB97wpOyih4)   
 [![互動式LED演奏教學模式-示範影片](/sample/MusicTutorial/MusicTutorial.png)](https://youtu.be/jB97wpOyih4)
 
 
