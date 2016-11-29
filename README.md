@@ -43,7 +43,7 @@
 * `MusicTutorial(int irpin[],int ledpin[],int pitches[],int notes[],float beat[],int numofpitches,int numofnotes);`     
 互動式LED演奏教學模式。
 
-![互動式LED演奏教學模式-示範影片](/sample/MusicTutorial/MusicTutorial.mp4)
+![互動式LED演奏教學模式-示範影片](https://youtu.be/jB97wpOyih4)
 
 
 
