@@ -44,7 +44,7 @@
 互動式LED演奏教學模式。   
 
 [互動式LED演奏教學模式-示範影片](https://youtu.be/jB97wpOyih4)   
-[![互動式LED演奏教學模式-示範影片](/sample/MusicTutorial/MusicTutorial.png)](https://youtu.be/jB97wpOyih4)
+[![互動式LED演奏教學模式-示範影片](/sample/MusicTutorial/MusicTutorial-demo.png)](https://youtu.be/jB97wpOyih4)
 
 
 
